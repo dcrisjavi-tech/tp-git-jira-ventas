@@ -1,0 +1,9 @@
+import pandas as pd
+
+df = pd.read_csv("../datos/ventas.csv")
+
+print("Total de ventas:")
+print(df["Ventas"].sum())
+
+print("Promedio:")
+print(df["Ventas"].mean())

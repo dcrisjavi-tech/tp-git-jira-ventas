@@ -9,38 +9,29 @@
 Escenario B – Analisis de Ventas de una Pequeña Empresa
 
 ## Descripcion
-El proyecto analiza un conjunto de datos de ventas utilizando Python y Pandas.
 
-Se calculan:
-- Ventas totales
-- Promedio de ventas
-- Producto mas vendido
-- Ventas por mes
+Este proyecto analiza datos de ventas utilizando Python, Pandas y Matplotlib.
 
-Tambien se genera un grafico automatico de ventas.
-
-## Estructura del proyecto
-
-- /datos → contiene el archivo CSV
-- /scripts → contiene el script Python
-- /resultados → contiene el resumen y el grafico
+El sistema permite:
+- calcular ventas totales
+- calcular promedio de ventas
+- identificar el producto mas vendido
+- mostrar ventas por mes
+- generar un grafico automatico
 
 ## Tecnologias utilizadas
 - Python
 - Pandas
 - Matplotlib
+- Git
+- GitHub
+
+## Estructura del proyecto
+- /datos → contiene datasets CSV
+- /scripts → contiene el script Python
+- /resultados → contiene resumenes y graficos
 
 ## Ejecucion
 
-Ejecutar:
-
 ```bash
 python scripts/analisis_ventas.py
-``` 
-## Ejecucion
-
-Ejecutar:
-
-```bash
-python scripts/analisis_ventas.py
-```
