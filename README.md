@@ -1,5 +1,4 @@
-Carpeta para da# ANALISIS DE VENTAS DE UNA PEQUEÑA EMPRESA
-
+# ANALISIS DE VENTAS DE UNA PEQUEÑA EMPRESA
 ## Integrantes
 
 - Hugo
@@ -39,4 +38,4 @@ El sistema permite:
 
 ```bash
 python scripts/analisis_ventas.py
-```tasets de ventas.
+```
