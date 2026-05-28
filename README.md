@@ -1,12 +1,11 @@
 # ANALISIS DE VENTAS DE UNA PEQUEÑA EMPRESA
-## Integrantes
 
+## Integrantes
 - Hugo
 - Paco
 - Luis
 
 ## Escenario elegido
-
 Escenario B – Analisis de Ventas de una Pequeña Empresa
 
 ## Descripcion
@@ -21,7 +20,6 @@ El sistema permite:
 - generar un grafico automatico
 
 ## Tecnologias utilizadas
-
 - Python
 - Pandas
 - Matplotlib
@@ -29,7 +27,6 @@ El sistema permite:
 - GitHub
 
 ## Estructura del proyecto
-
 - /datos → contiene datasets CSV
 - /scripts → contiene el script Python
 - /resultados → contiene resumenes y graficos
@@ -38,4 +35,3 @@ El sistema permite:
 
 ```bash
 python scripts/analisis_ventas.py
-```
