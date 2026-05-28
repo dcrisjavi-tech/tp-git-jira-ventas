@@ -1,0 +1,9 @@
+REPORTE DE VENTAS
+========================
+
+Ventas totales: 735
+Promedio de ventas: 147.0
+Producto mas vendido: Mouse
+
+Ventas por mes:
+Mes 1: 735
