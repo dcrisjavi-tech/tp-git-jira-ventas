@@ -1,1 +1,1 @@
-# tp-git-jira-ventas
+Carpeta para datasets de ventas.
