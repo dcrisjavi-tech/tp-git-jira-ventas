@@ -54,4 +54,4 @@ tp-git-jira-ventas/
 ## Ejecucion
 
 ```bash
-py scripts/analisis_ventas.py```
+py scripts/analisis_ventas.py
