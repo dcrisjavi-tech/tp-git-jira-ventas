@@ -20,18 +20,39 @@ El sistema permite:
 - generar un grafico automatico
 
 ## Tecnologias utilizadas
+
 - Python
 - Pandas
 - Matplotlib
 - Git
 - GitHub
 
+Instalar dependencias:
+
+```bash
+pip install pandas matplotlib
+```
+
 ## Estructura del proyecto
-- /datos → contiene datasets CSV
-- /scripts → contiene el script Python
-- /resultados → contiene resumenes y graficos
+
+```txt
+tp-git-jira-ventas/
+│
+├── datos/
+│   └── ventas.csv
+│
+├── scripts/
+│   └── analisis_ventas.py
+│
+├── resultados/
+│   ├── resumen.txt
+│   └── grafico_ventas.png
+│
+└── README.md
+```
 
 ## Ejecucion
 
 ```bash
 python scripts/analisis_ventas.py
+```
