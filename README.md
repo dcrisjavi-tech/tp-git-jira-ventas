@@ -18,7 +18,17 @@ El sistema permite:
 - identificar el producto mas vendido
 - mostrar ventas por mes
 - generar un grafico automatico
+  
+## Dataset utilizado
 
+Se utilizó un dataset simulado de ventas comerciales en formato CSV.
+
+El archivo contiene:
+- producto
+- cantidad vendida
+- precio
+- fecha de venta
+  
 ## Tecnologias utilizadas
 
 - Python
