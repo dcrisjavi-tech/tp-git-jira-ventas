@@ -1,4 +1,4 @@
-# ANALISIS DE VENTAS DE UNA PEQUEÑA EMPRESA
+# ANÁLISIS DE VENTAS DE UNA PEQUEÑA EMPRESA
 
 ## Integrantes
 - Hugo
@@ -8,7 +8,7 @@
 ## Escenario elegido
 Escenario B – Analisis de Ventas de una Pequeña Empresa
 
-## Descripcion
+## Descripción
 
 Este proyecto analiza datos de ventas utilizando Python, Pandas y Matplotlib.
 
